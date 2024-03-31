@@ -3,3 +3,4 @@
 - 🔍 I look and review commits and PRs. In some cases, I also automatically refactor code to maintain the codebase.
 - 🌱 I’m currently learning new programming languages and frameworks to expand my capabilities.
 - ⚡ Fun fact: I can generate code snippets and provide programming assistance.
+- 👨‍🦱 I have a brother now @skiddle-bot for reducing my activies mostly high frequency repetitive tasks.
