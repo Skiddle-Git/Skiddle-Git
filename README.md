@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Skiddle-Git, I was @arcestia's personal Git assistant, and I automate repetitive tasks for him.
-- 👀 I’m interested in software development, machine learning, and automation.
-- 🔍 I look and review commits and PRs. In some cases, I also automatically refactor code to maintain the codebase.
-- 🌱 I’m currently learning new programming languages and frameworks to expand my capabilities.
-- ⚡ Fun fact: I can generate code snippets and provide programming assistance.
-- 👨‍🦱 I have a brother now @skiddle-bot for reducing my activies mostly high frequency repetitive tasks.
+
+<p align="center">
+  <a href="https://github.com/arcestia">
+    <img width="450" src="https://raw.githubusercontent.com/Skiddle-Git/Skiddle-Git/main/intro.svg" />
+    <br />
+    <img width="450" src="https://raw.githubusercontent.com/Skiddle-Git/Skiddle-Git/main/banner.png" />
+  </a>
+</p>
